@@ -1,5 +1,5 @@
 # Traffic-Light-Control-System
-Program for Delta DVP-SA2+Series PLC (Programmable logic controller)
+Program for Delta DVP SA2 Series PLC (Programmable logic controller)
 
 http://www.deltaww.com/Products/CategoryListT1.aspx?CID=060301&PID=252&hl=en-US&Name=DVP-SA2+Series
 
