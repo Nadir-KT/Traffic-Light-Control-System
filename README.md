@@ -13,4 +13,5 @@ PLC programming software : WPLSoft V2.49
 
 HMI design software : DOPSoft V2.00.07
 
+Software Download Center
 http://www.deltaww.com/services/DownloadCenter3.aspx?secID=8&pid=2&tid=0&itemID=&typeID=1&downloadID=&title=&dataType=&check=0&hl=en-US&CID=06
